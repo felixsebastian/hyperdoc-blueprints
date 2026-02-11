@@ -10,6 +10,7 @@
     "name": "PNPM Monorepo",
     "description": "Full stack app template with Zapper integration, docs and extensions.",
     "url": "https://raw.githubusercontent.com/maplab-oss/pnpm-monorepo/refs/heads/main/PROJECT_SETUP_GUIDE.md",
+    "githubRepo": "maplab-oss/pnpm-monorepo",
     "standardFields": ["NAME", "EMOJI"],
     "fields": [
       {"name": "Project description", "required": true, "note": "1 liner about your project" },
