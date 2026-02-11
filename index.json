@@ -1,3 +1,10 @@
 [
-  {"name": "React+Vite+Typescript", "url": "https://raw.githubusercontent.com/felixsebastian/hyperdoc-blueprints/refs/heads/main/REACT_VITE_TYPESCRIPT.md"}
+  {
+    "name": "React+Vite+Typescript",
+    "url": "https://raw.githubusercontent.com/felixsebastian/hyperdoc-blueprints/refs/heads/main/REACT_VITE_TYPESCRIPT.md"
+  },
+  {
+    "name": "PNPM Monorepo",
+    "url": "https://raw.githubusercontent.com/maplab-oss/pnpm-monorepo/refs/heads/main/PROJECT_SETUP_GUIDE.md"
+  }
 ]
