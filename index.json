@@ -7,6 +7,11 @@
   {
     "name": "PNPM Monorepo",
     "url": "https://raw.githubusercontent.com/maplab-oss/pnpm-monorepo/refs/heads/main/PROJECT_SETUP_GUIDE.md",
-    "fields": []
+    "fields": [
+      {"name": "Project display name", "required": true, "note": "Name of your app" },
+      {"name": "Project description", "required": true, "note": "1 liner about your project" },
+      {"name": "Project slug", "required": false, "note": "Inferred from name if blank" },
+      {"name": "Emoji", "required": false, "note": "For favicon" }
+    ]
   }
 ]
