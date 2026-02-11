@@ -1,5 +1,6 @@
 [
   {
+    "id": "e58ce416-a245-4776-a987-0346dc698c34",
     "name": "React+Vite+Typescript",
     "description": "Vanilla Vite with TypeScript, no docs.",
     "url": "https://raw.githubusercontent.com/felixsebastian/hyperdoc-blueprints/refs/heads/main/REACT_VITE_TYPESCRIPT.md",
@@ -8,6 +9,7 @@
     "fields": []
   },
   {
+    "id": "5d6d109e-ae3d-445d-92eb-b684da5b8df9",
     "name": "PNPM Monorepo",
     "description": "Full stack app template with Zapper integration, docs and extensions.",
     "url": "https://raw.githubusercontent.com/maplab-oss/pnpm-monorepo/refs/heads/main/PROJECT_SETUP_GUIDE.md",
