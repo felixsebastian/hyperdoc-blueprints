@@ -3,6 +3,7 @@
     "name": "React+Vite+Typescript",
     "description": "Vanilla Vite with TypeScript, no docs.",
     "url": "https://raw.githubusercontent.com/felixsebastian/hyperdoc-blueprints/refs/heads/main/REACT_VITE_TYPESCRIPT.md",
+    "githubRepo": null,
     "standardFields": [],
     "fields": []
   },
