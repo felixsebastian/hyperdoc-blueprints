@@ -1,11 +1,13 @@
 [
   {
     "name": "React+Vite+Typescript",
+    "description": "Vanilla Vite with TypeScript, no docs.",
     "url": "https://raw.githubusercontent.com/felixsebastian/hyperdoc-blueprints/refs/heads/main/REACT_VITE_TYPESCRIPT.md",
     "fields": []
   },
   {
     "name": "PNPM Monorepo",
+    "description": "Full stack app template with Zapper integration, docs and extensions.",
     "url": "https://raw.githubusercontent.com/maplab-oss/pnpm-monorepo/refs/heads/main/PROJECT_SETUP_GUIDE.md",
     "fields": [
       {"name": "Project display name", "required": true, "note": "Name of your app" },
